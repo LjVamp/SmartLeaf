@@ -1,0 +1,14 @@
+{
+  "Healthy": [
+    "This is sample prescription for healthy"
+  ],
+  "Anthracnose": [
+    "This is sample prescription for anthracnose"
+  ],
+  "Bacterial Canker": [],
+  "Cutting Weevil": [],
+  "Die Back": [],
+  "Gall Midge": [],
+  "Powdery Mildew": [],
+  "Sooty Mould": []
+}
